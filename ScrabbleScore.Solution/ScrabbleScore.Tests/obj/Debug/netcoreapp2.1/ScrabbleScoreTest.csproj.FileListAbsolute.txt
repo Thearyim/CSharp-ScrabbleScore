@@ -2,3 +2,16 @@ C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.S
 C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp2.1\ScrabbleScoreTest.csproj.CoreCompileInputs.cache
 C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp2.1\ScrabbleScoreTest.AssemblyInfoInputs.cache
 C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp2.1\ScrabbleScoreTest.AssemblyInfo.cs
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.1\ScrabbleScoreTest.deps.json
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.1\ScrabbleScoreTest.runtimeconfig.json
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.1\ScrabbleScoreTest.runtimeconfig.dev.json
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.1\ScrabbleScoreTest.dll
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.1\ScrabbleScoreTest.pdb
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.1\ScrabbleScore.dll
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.1\ScrabbleScore.pdb
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp2.1\ScrabbleScoreTest.csproj.CopyComplete
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp2.1\ScrabbleScoreTest.dll
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp2.1\ScrabbleScoreTest.pdb

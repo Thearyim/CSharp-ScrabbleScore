@@ -19,9 +19,10 @@ namespace ScrabbleScore
           // Q, Z                              10
 
             int score = 0;
-            for (int i = 0; i < word.Length; i++)
+            string wordUC = word.ToUpper();
+            for (int i = 0; i < wordUC.Length; i++)
             {
-                char letter = word[i];
+                char letter = wordUC[i];
 
                 if (letter == 'A' || letter == 'E' || letter == 'I' || letter == 'O' || letter == 'U' || letter == 'L' || letter == 'N' || letter == 'R' || letter == 'S' || letter == 'T')
                 {
