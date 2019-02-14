@@ -1,0 +1,4 @@
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp2.1\ScrabbleScoreTest.csprojAssemblyReference.cache
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp2.1\ScrabbleScoreTest.csproj.CoreCompileInputs.cache
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp2.1\ScrabbleScoreTest.AssemblyInfoInputs.cache
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp2.1\ScrabbleScoreTest.AssemblyInfo.cs

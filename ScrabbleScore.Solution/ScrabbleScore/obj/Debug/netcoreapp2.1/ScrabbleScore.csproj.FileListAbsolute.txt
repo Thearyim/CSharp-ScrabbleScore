@@ -1,0 +1,9 @@
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\netcoreapp2.1\ScrabbleScore.csprojAssemblyReference.cache
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\netcoreapp2.1\ScrabbleScore.csproj.CoreCompileInputs.cache
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\netcoreapp2.1\ScrabbleScore.AssemblyInfoInputs.cache
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\netcoreapp2.1\ScrabbleScore.AssemblyInfo.cs
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\netcoreapp2.1\ScrabbleScore.deps.json
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\netcoreapp2.1\ScrabbleScore.dll
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\netcoreapp2.1\ScrabbleScore.pdb
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\netcoreapp2.1\ScrabbleScore.dll
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\CSharp-ScrabbleScore\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\netcoreapp2.1\ScrabbleScore.pdb
